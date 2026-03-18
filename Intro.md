@@ -1,4 +1,4 @@
-## 🚀 GirlScript Hackathon Week (GHW)
+## 🚀 Global Hack Week (GHW)
 
 I participated in **Global Hack Week (GHW)**, an open-source initiative by the **Major League Hacking**. This experience helped me enhance my development skills, collaborate with developers, and contribute to real-world projects.
 
